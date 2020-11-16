@@ -9,7 +9,7 @@ The viridis gem is a set of helpers to generate viridis (viridis, magma, inferno
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'viridis', github: 'max2320/viridis'
+gem 'viridis'
 ```
 
 And then execute:
@@ -18,7 +18,7 @@ $ bundle install
 ```
 Or install it yourself as:
 ```sh
-$ gem install viridis git: 'https://github.com/max2320/viridis'
+$ gem install viridis
 ```
 ## Usage
 
